@@ -21,6 +21,7 @@ public class Main {
             urlConnection.setReadTimeout(5000);
             urlConnection.setRequestProperty("User-Agent","Chrome/70.0.3538.77");
             urlConnection.connect();
+            System.out.println(urlConnection.getResponseCode());
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {

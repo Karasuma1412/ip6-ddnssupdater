@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc535f73-a5c7-447b-9507-02080919a296" name="Default Changelist" comment="" />
+    <list default="true" id="cc535f73-a5c7-447b-9507-02080919a296" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dnsupdater_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dnsupdater_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ks/karasuma/dnsupdater/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ks/karasuma/dnsupdater/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -31,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/ks/karasuma/dnsupdater/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="391">
+              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,10 +133,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Fertige Programme" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -165,7 +169,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.ks.karasuma.dnsupdater.Main" />
       <module name="dnsupdater.main" />
-      <option name="PROGRAM_PARAMETERS" value="http://ddnss.de/upd.php?key=392be5ea6d02a69defe7e0ba711ace7d&amp;host=karasuma-pi.ddnss.de" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;https://ddnss.de/upd.php?key=392be5ea6d02a69defe7e0ba711ace7d&amp;host=karasuma-pi.ddnss.de&quot;" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.ks.karasuma.dnsupdater.*" />
@@ -195,15 +199,16 @@
       <workItem from="1558470683051" duration="1914000" />
       <workItem from="1558517144696" duration="702000" />
       <workItem from="1558518533114" duration="2032000" />
-      <workItem from="1559400080791" duration="903000" />
+      <workItem from="1559400080791" duration="1514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5551000" />
+    <option name="totallyTimeSpent" value="6162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -253,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/ks/karasuma/dnsupdater/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="391">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

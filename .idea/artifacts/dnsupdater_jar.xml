@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" build-on-make="true" name="dnsupdater:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/dnsupdater_jar</output-path>
+    <output-path>D:/Fertige Programme</output-path>
     <root id="archive" name="dnsupdater.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
