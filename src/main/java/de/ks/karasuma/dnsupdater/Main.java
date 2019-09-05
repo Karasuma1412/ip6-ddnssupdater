@@ -10,6 +10,12 @@ public class Main {
     public static void main(String[] args) {
         System.getProperties().setProperty("java.net.preferIPv6Addresses",
                 "true");
+
+        if (args[0] == null) {
+            System.err.println("Please provide url as input argument");
+            return;
+        }
+
         updateDDNS(args[0]);
     }
 
