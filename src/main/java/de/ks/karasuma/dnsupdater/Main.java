@@ -11,7 +11,7 @@ public class Main {
         System.getProperties().setProperty("java.net.preferIPv6Addresses",
                 "true");
 
-        if (args[0] == null) {
+        if (args.length == 0) {
             System.err.println("Please provide url as input argument");
             return;
         }

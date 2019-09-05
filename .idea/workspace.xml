@@ -68,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar]">
+  <component name="RunManager" selected="Gradle.C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar] (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.ks.karasuma.dnsupdater.Main" />
       <module name="dnsupdater.main" />
@@ -82,6 +82,25 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fatJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -105,9 +124,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Gradle.C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar]" />
+      <item itemvalue="Gradle.C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar] (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar] (1)" />
         <item itemvalue="Gradle.C:/Users/bjoer/IdeaProjects/ip6-ddnssupdater/build.gradle [fatJar]" />
         <item itemvalue="Application.Main" />
       </list>
